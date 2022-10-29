@@ -1,0 +1,43 @@
+body{
+    background-image: url(../imagenes/fondo-home.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+    top: 50px;
+
+}
+
+table{
+ 
+    margin-top: 20px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+#solicitud {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    
+}
+
+#solicitud > p  {
+    margin: 5px;
+    border-bottom: 3px solid
+}
+
+#solicitud__items  {
+    margin: 5px;
+    display: flex;
+}
+
+
+p{
+   font-size: 16px;
+}
+
+input{
+    margin-top: 10px;
+}

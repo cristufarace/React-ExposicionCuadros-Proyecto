@@ -1,0 +1,680 @@
+{
+  "cuadros": [
+    {
+      "id": 1,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "Flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148749/cuadros/imagenes/Cuadro10/20201012_103132_HDR_v9f01k.jpg"
+    },
+    {
+      "id": 2,
+
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "Animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148750/cuadros/imagenes/Cuadro11/20201101_002720_HDR_rlktou.jpg"
+    },
+    {
+      "id": 3,
+
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "Animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148828/cuadros/imagenes/Cuadro12/20201103_222746_HDR_qa9y0k.jpg"
+    },
+    {
+      "id": 4,
+
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "Flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148789/cuadros/imagenes/Cuadro13/20201109_112002_HDR_ewrmco.jpg"
+    },
+    {
+      "id": 5,
+
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":3,
+      "motivo": "Infantil",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148781/cuadros/imagenes/Cuadro14/20201109_161727_HDR_ghaf6b.jpg"
+    },
+    {
+      "id": 6,
+
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "Animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148785/cuadros/imagenes/Cuadro15/20201129_005028_HDR_bnizau.jpg"
+    },
+    {
+      "id": 7,
+
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "Paisajes Mar barcos",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148786/cuadros/imagenes/Cuadro16/20201201_142248_HDR_1_dhxjxd.jpg"
+    },
+    {
+      "id": 8,
+
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "Flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148755/cuadros/imagenes/Cuadro17/20201204_231100_HDR_oe00hs.jpg"
+    },
+    {
+      "id": 9,
+
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "Flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148818/cuadros/imagenes/Cuadro18/IMG_20211010_210445_1_itdjvj.jpg"
+    },
+    {
+      "id": 10,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "Flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148776/cuadros/imagenes/Cuadro19/20201204_232012_HDR_qnadvo.jpg"
+    },
+    {
+      "id": 11,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "Paisajes Mar ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148801/cuadros/imagenes/Cuadro2/20191130_185530_ynbncb.jpg"
+    },
+    {
+      "id": 12,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "Paisajes Mar Barcos  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148770/cuadros/imagenes/Cuadro20/20201219_125328_HDR_umtohn.jpg"
+    },
+
+    {
+      "id": 13,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "Animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148769/cuadros/imagenes/Cuadro21/20201228_201746_HDR_hkx7qh.jpg"
+    },
+
+    {
+      "id": 14,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":9,
+      "motivo": "Espiritual",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148820/cuadros/imagenes/Cuadro22/20210118_201714_HDR_2_qhzkm8.jpg"
+    },
+
+    {
+      "id": 15,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":9,
+      "motivo": "Espiritual",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148797/cuadros/imagenes/Cuadro23/20210128_174406_HDR_1_tkedof.jpg"
+    },
+
+    {
+      "id": 16,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148785/cuadros/imagenes/Cuadro24/20210208_190601_HDR_2_gtwyzj.jpg"
+    },
+
+    {
+      "id": 17,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "paisaje barcoss mar",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148766/cuadros/imagenes/Cuadro25/20210226_233526_HDR_cpaocn.jpg"
+    },
+
+    {
+      "id": 18,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148750/cuadros/imagenes/Cuadro26/20210307_173916_HDR_1_syj4n0.jpg"
+    },
+
+    {
+      "id": 19,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":7,
+      "motivo": "Fantasia",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148759/cuadros/imagenes/Cuadro27/20210408_210829_HDR_1_fftwo6.jpg"
+    },
+
+    {
+      "id": 20,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148756/cuadros/imagenes/Cuadro28/20210513_224533_HDR_t1rjjc.jpg"
+    },
+
+    {
+      "id": 21,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "paisaje",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148791/cuadros/imagenes/Cuadro29/20210521_114012_HDR_1_y3hrtq.jpg"
+    },
+
+    {
+      "id": 22,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148801/cuadros/imagenes/Cuadro3/20191222_222332_lfrfcv.jpg"
+    },
+    {
+      "id": 23,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":3,
+      "motivo": "Infantil",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148749/cuadros/imagenes/Cuadro1/20191110_003531_ooe5ii.jpg"
+    },
+    {
+      "id": 24,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148755/cuadros/imagenes/Cuadro30/20210605_224702_HDR_omai8e.jpg"
+    },
+
+    {
+      "id": 25,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148754/cuadros/imagenes/Cuadro31/20210717_115708_HDR_1_gqrtri.jpg"
+    },
+
+    {
+      "id": 26,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148751/cuadros/imagenes/Cuadro32/20210717_120027_HDR_1_f6w0qp.jpg"
+    },
+
+    {
+      "id": 27,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "paisaje barcos mar  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148770/cuadros/imagenes/Cuadro33/20210802_220554_HDR_1_undtss.jpg"
+    },
+
+    {
+      "id": 28,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148760/cuadros/imagenes/Cuadro34/20210809_172205_1_ttbc19.jpg"
+    },
+
+    {
+      "id": 29,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148807/cuadros/imagenes/Cuadro35/20210828_202819_2_r7jfq0.jpg"
+    },
+
+    {
+      "id": 30,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "flores  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148768/cuadros/imagenes/Cuadro36/20210903_190539_3_lieb0e.jpg"
+    },
+
+    {
+      "id": 31,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "paisaje mar  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148781/cuadros/imagenes/Cuadro37/20210927_141111_1_aednuu.jpg"
+    },
+
+    {
+      "id": 32,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":8,
+      "motivo": "Mar Figura Humana  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148770/cuadros/imagenes/Cuadro38/20201204_233153_HDR_wmalak.jpg"
+    },
+
+    {
+      "id": 33,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148807/cuadros/imagenes/Cuadro39/Foto_de_Vivi_cr2w51.jpg"
+    },
+
+    {
+      "id": 34,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "paisaje mar ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148821/cuadros/imagenes/Cuadro4/20191229_193745_ld1no6.jpg"
+    },
+
+    {
+      "id": 35,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148808/cuadros/imagenes/Cuadro40/Foto_de_Vivi_rrnzqv.jpg"
+    },
+
+    {
+      "id": 36,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":7,
+      "motivo": "Fantasia",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148826/cuadros/imagenes/Cuadro41/IMG_20190616_185307_rswpno.jpg"
+    },
+
+    {
+      "id": 37,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":8,
+      "motivo": "Figura Humana",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148838/cuadros/imagenes/Cuadro42/IMG_20190616_202010_ajnqhx.jpg"
+    },
+
+    {
+      "id": 38,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje barcos",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148836/cuadros/imagenes/Cuadro43/20200128_204630_oxjx5j.jpg"
+    },
+
+    {
+      "id": 39,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148848/cuadros/imagenes/Cuadro44/IMG_20190822_182414_z62obx.jpg"
+    },
+
+    {
+      "id": 40,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148809/cuadros/imagenes/Cuadro45/IMG-20191011-WA0000_uk6qbb.jpg"
+    },
+
+    {
+      "id": 41,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148840/cuadros/imagenes/Cuadro46/IMG_20190822_182407_d1xjj6.jpg"
+    },
+
+    {
+      "id": 42,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148840/cuadros/imagenes/Cuadro47/IMG_20191014_205939_leywvw.jpg"
+    },
+
+    {
+      "id": 43,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148838/cuadros/imagenes/Cuadro48/IMG_20190822_182447_r3elxu.jpg"
+    },
+
+    {
+      "id": 44,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148932/cuadros/imagenes/Cuadro49/IMG_20210913_212513_1_iktr8q.jpg"
+    },
+
+    {
+      "id": 45,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148827/cuadros/imagenes/Cuadro5/20200408_180524_ojvbw2.jpg"
+    },
+
+    {
+      "id": 46,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148851/cuadros/imagenes/Cuadro50/IMG_20210908_213752_3_fbixuc.jpg"
+    },
+
+    {
+      "id": 47,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "paisajes  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148874/cuadros/imagenes/Cuadro51/IMG_20211124_165507_1_zbsn87.jpg"
+    },
+
+    {
+      "id": 48,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148901/cuadros/imagenes/Cuadro52/IMG_20211216_224713_3_nhmsz3.jpg"
+    },
+
+    {
+      "id": 49,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":3,
+      "motivo": "Infantil",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148861/cuadros/imagenes/Cuadro53/IMG_20220120_212752_uujtqs.jpg"
+    },
+
+    {
+      "id": 50,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148811/cuadros/imagenes/Cuadro54/20201112_113341_HDR_rv3wup.jpg"
+    },
+
+    {
+      "id": 51,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje barcos",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148853/cuadros/imagenes/Cuadro55/IMG_20220415_181237_dtmola.jpg"
+    },
+
+    {
+      "id": 52,
+      "precio": 9000,
+      "stock": 1,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje barcos  ",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148878/cuadros/imagenes/Cuadro56/IMG_20220526_220913_mxjyij.jpg"
+    },
+
+    {
+      "id": 53,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":7,
+      "motivo": "Figura Humana",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148895/cuadros/imagenes/Cuadro57/IMG_20220723_203755_xsibtu.jpg"
+    },
+
+    {
+      "id": 54,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":0,
+      "motivo": "otros",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148881/cuadros/imagenes/Cuadro59/IMG_20220709_120058_rd63xj.jpg"
+    },
+
+    {
+      "id": 55,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148809/cuadros/imagenes/Cuadro6/20200827_210353_HDR_ghklnl.jpg"
+    },
+
+    {
+      "id": 56,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148905/cuadros/imagenes/Cuadro61/IMG_20220222_212819_iebmek.jpg"
+    },
+
+    {
+      "id": 57,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148910/cuadros/imagenes/Cuadro63/IMG_20220803_204631_zbf0xl.jpg"
+    },
+
+    {
+      "id": 58,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":8,
+      "motivo": "Figura Humana",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148881/cuadros/imagenes/Cuadro64/IMG_20220803_204906_uk60ah.jpg"
+    },
+
+    {
+      "id": 59,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148809/cuadros/imagenes/Cuadro7/20200926_174644_HDR_zu3qzw.jpg"
+    },
+
+    {
+      "id": 60,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":4,
+      "motivo": "mar paisaje",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148805/cuadros/imagenes/Cuadro8/20200926_192538_HDR_hl265v.jpg"
+    },
+
+    {
+      "id": 61,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":2,
+      "motivo": "flores",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660148810/cuadros/imagenes/Cuadro9/20200927_104555_HDR_p9ma9u.jpg"
+    },
+
+    {
+      "id": 62,
+      "precio": 9000,
+      "stock": 0,
+      "medidas": "70cm x 90cm",
+      "descripcion": "Cuadro pintado con acrilico sobre bastidor de fibro facil ",
+      "codigo":1,
+      "motivo": "animales",
+      "imagen": "https://res.cloudinary.com/dvcrta1qy/image/upload/v1660153648/cuadros/imagenes/cuadro65/Screenshot_2022-08-03-21-33-52-897_2_c6qgvg.jpg"
+    }
+  ]
+}

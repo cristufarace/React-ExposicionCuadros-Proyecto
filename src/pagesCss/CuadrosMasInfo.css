@@ -1,0 +1,36 @@
+#container {
+    display: flex;
+    padding: 20px;
+}
+
+#container__imagen {
+    width: 70%;
+    padding: 20px;
+}
+
+img{
+    max-width: 100%;
+}
+
+#container__info {
+    padding: 20px;
+    width: 30%;
+    background: black;
+    color: white;
+}
+
+@media only screen and (max-width: 900px) {
+    #container {
+        display: block;
+    }
+
+    #container__imagen {
+        width: 100%;
+        padding: 20px;
+    }
+
+    #container__info {
+        text-align: center;
+        width: 100%;
+    }
+  }

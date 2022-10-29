@@ -1,0 +1,54 @@
+body{
+    background-image: url(../imagenes/fondo-home.jpg);
+    background-attachment: fixed;
+    background-size: contain;  
+}
+
+p{
+    /* font-size:  16px; */
+    text-transform: capitalize;
+}
+#contenedorDeBotonesYProductos{
+    z-index: 0;
+}
+
+#contenedorDeBotonesYProductos__contenedorProductos {
+    background-image: url(../imagenes/fondo-home.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: black;
+    position: relative;
+    top: 60px;
+}
+
+#loader {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+
+#contenedorDeBotonesYProductos__botones{
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 50px;
+    z-index: 1;
+}
+
+@media only screen and (max-width: 900px) {
+    Button{
+        margin-bottom: 5px;
+    }
+   
+  }

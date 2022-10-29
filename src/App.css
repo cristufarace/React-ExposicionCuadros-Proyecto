@@ -1,0 +1,9 @@
+a:hover{
+    color: lightcoral;
+    transition: all 1000ms ease;
+}
+
+button:hover{
+    color: black;
+    transition: all 1000ms ease;
+}

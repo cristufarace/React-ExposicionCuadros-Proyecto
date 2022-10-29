@@ -1,0 +1,13 @@
+.item{
+    margin: 10px;
+}
+.info{
+    height: 100%;
+
+}
+
+.item:hover {
+    background: black;
+   transition: all 2000ms ease;   
+   border-radius: 10px;
+}

@@ -1,0 +1,13 @@
+/* se lo agregue al la pagina cuadros mas info en el ternario que espera la peticion fetch */
+.todaLaPantalla {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todaLaPantallaSinFlex {
+    height: 100vh;
+    padding: 10px;
+
+}

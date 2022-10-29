@@ -1,0 +1,42 @@
+.modal {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.75);
+    display: none;
+    /* el none oculta el modal */
+    justify-content: center;
+    align-items: center;
+  }
+  .modal.is-open {
+    transition: all 1000ms ease;
+    display: flex;
+    
+  }
+  /* cuando se activa este estilo, se muestra en pantalla el contenido */
+  
+  .modal-close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+  }
+  /* son las propiedades del boton cerrar X */
+  
+  .modal-container {
+    /* dentro de el esta la ventana modal */
+    position: relative;
+    padding: 1rem;
+    min-width: 320px;
+    max-width: 480px;
+    min-height: 200px;
+    max-height: 600px;
+    overflow-y: auto;
+    /* genera una barra para scrollear el contenido q sobre de la ventana modal */
+    /* background-color: rgba(0, 0, 0, 0.75); */
+  }
+  
+  
+  

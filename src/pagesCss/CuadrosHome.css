@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 50px;
+    background: white;
+}
+
+#mensaje {
+    background: green;
+    margin: 30px;
+    color: white;
+    background: white;
+}
+
+.iframe{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+    background: grey;
+    text-align: center;
+}
+.medios {
+    background: white;
+    text-align: center;
+    color:"black";
+    padding: 30px;
+}
+.envios{
+    justify-content: center;
+}
+/* imagenes */
+.animado.imagen {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+/* textos */
+.animado.texto, .envios {
+    color: white;
+    line-height: 10px;
+    line-height: 50px;
+    padding: 30px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+/* fondos colores */
+.about-me{
+    background: gray;
+}.tecnicas, .envios{
+      background:black;
+}
+
+.carousel{
+    padding: 20px;
+    background: black;
+}
+
+#tarjeta {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background: white;
+}   
+
+ .animado {
+    opacity: 0;
+    transition: all 2s;
+}
+
+.mostrarArriba {
+    animation: mostrarArriba 1s;
+}
+
+@keyframes mostrarArriba {
+    0% {transform: translateX(-100px);}
+    100% {transform: translateX(0);}
+}
